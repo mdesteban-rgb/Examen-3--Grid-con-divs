@@ -1,0 +1,7 @@
+.div3{
+    height: 100%;
+    width: 100%;
+    border: 1px solid black;
+    grid-column: 4/5;
+    grid-row: 1/3;
+}
